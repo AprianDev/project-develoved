@@ -66,3 +66,7 @@ juga terdapat games yang dapat memeriksa bagaimana pola hidup kita selama ini ap
 10. [https://peerleaders.id/] -PHP Native- Indonesian Peer Leaders (Event Promotion Website)
 Indonesian Peer Leaders atau disingkat IPL merupakan program yang diselenggarakan oleh PT Paragon Technology and Innovation
 dengan konten rekruitment anggota anggota baru untuk program tersebut dan juga terdapat beberapa webinars yang akan/sudah diselenggarakan oleh IPL
+
+11. [http://maza.pillowproject.id/] -PHP Native- PT. Maza Pradita Sarana (Company Profile Website)
+PT. Maza Pradita Sarana merupakan perusahaan yang bergerak di bidang konsultan. Kami diberi kesempatan untuk mengembangkan 
+website Company Profile untuk PT. Maza Pradita Sarana, untuk menampilkan Layanan perusahaan, klien yang pernah bekerja sama dan kontak yang dapat dihubungi
