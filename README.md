@@ -35,7 +35,7 @@ informasi yang digunakan untuk melakukan kegiatan
 pengadaan barang yang berada di dalam perusahaan
 tersebut.
 
-5. [p2d.itb.ac.id] -PHP Native- P2D ITB (WEBSITE INTERNATIONAL EVENT PROMOTION)
+5. [https://p2d.itb.ac.id/] -PHP Native- P2D ITB (WEBSITE INTERNATIONAL EVENT PROMOTION)
 P2D ITB adalah sebuah pusat pemberdayaan desa yang
 dinaungi oleh kampus ITB, lembaga ini menaungi diskusi
 secara publik dari berbagai lintas disiplin ilmu yang
